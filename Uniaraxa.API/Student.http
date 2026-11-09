@@ -1,0 +1,28 @@
+@host = http://localhost:5053
+
+### Inserir
+POST {{host}}/api/student
+Content-Type: application/json
+
+{
+  "name": "João Souza",
+  "email": "joao@aluno.uniaraxa.edu.br"
+}
+
+### Listar todos
+GET {{host}}/api/student
+
+### Buscar por id
+GET {{host}}/api/student/1
+
+### Atualizar
+PUT {{host}}/api/student/1
+Content-Type: application/json
+
+{
+  "name": "João Souza Lima",
+  "email": "joao@aluno.uniaraxa.edu.br"
+}
+
+### Remover
+DELETE {{host}}/api/student/1

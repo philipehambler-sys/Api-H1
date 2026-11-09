@@ -1,0 +1,32 @@
+@host = http://localhost:5053
+
+### Inserir
+POST {{host}}/api/teacher
+Content-Type: application/json
+
+{
+  "name": "Maria Silva",
+  "email": "maria@uniaraxa.edu.br",
+  "urlLattes": "http://lattes.cnpq.br/1234567890123456",
+  "dataAdmissao": "2024-02-01T00:00:00"
+}
+
+### Listar todos
+GET {{host}}/api/teacher
+
+### Buscar por id
+GET {{host}}/api/teacher/1
+
+### Atualizar
+PUT {{host}}/api/teacher/1
+Content-Type: application/json
+
+{
+  "name": "Maria Silva Souza",
+  "email": "maria@uniaraxa.edu.br",
+  "urlLattes": "http://lattes.cnpq.br/1234567890123456",
+  "dataAdmissao": "2024-02-01T00:00:00"
+}
+
+### Remover
+DELETE {{host}}/api/teacher/1

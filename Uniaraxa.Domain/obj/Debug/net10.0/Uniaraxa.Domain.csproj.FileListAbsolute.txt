@@ -1,0 +1,12 @@
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\bin\Debug\net10.0\Uniaraxa.Domain.deps.json
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\bin\Debug\net10.0\Uniaraxa.Domain.dll
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\bin\Debug\net10.0\Uniaraxa.Domain.pdb
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.AssemblyInfoInputs.cache
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.AssemblyInfo.cs
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.sourcelink.json
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.dll
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\refint\Uniaraxa.Domain.dll
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\Uniaraxa.Domain.pdb
+C:\Users\32466\AtividadeH1\2026_2_Uniaraxa\Uniaraxa.Domain\obj\Debug\net10.0\ref\Uniaraxa.Domain.dll
